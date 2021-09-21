@@ -1,0 +1,31 @@
+<?xml version="1.0" encoding="utf-8"?>
+<resources>
+
+    <array name="banderas">
+        <item>@drawable/elsalvador</item>
+        <item>@drawable/guatemala</item>
+        <item>@drawable/honduras</item>
+        <item>@drawable/nicaragua</item>
+        <item>@drawable/costarica</item>
+        <item>@drawable/panama</item>
+    </array>
+
+    <string-array name="paises">
+        <item>El Salvador</item>
+        <item>Guatemala</item>
+        <item>Honduras</item>
+        <item>Nicaragua</item>
+        <item>Costa Rica</item>
+        <item>Panamá</item>
+    </string-array>
+
+    <string-array name="capitales_paises">
+        <item>San Salvador</item>
+        <item>Guatemala</item>
+        <item>Tegucigalpa</item>
+        <item>Managua</item>
+        <item>San Jose</item>
+        <item>Panamá</item>
+    </string-array>
+
+</resources>
